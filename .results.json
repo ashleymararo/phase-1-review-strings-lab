@@ -5,9 +5,9 @@
     "passes": 10,
     "pending": 0,
     "failures": 0,
-    "start": "2025-06-06T09:42:43.071Z",
-    "end": "2025-06-06T09:42:43.553Z",
-    "duration": 482
+    "start": "2025-06-06T10:47:26.298Z",
+    "end": "2025-06-06T10:47:26.543Z",
+    "duration": 245
   },
   "tests": [
     {
@@ -34,7 +34,7 @@
     {
       "title": "ends with an exclamation point!",
       "fullTitle": "index.js welcomeMessage ends with an exclamation point!",
-      "duration": 1,
+      "duration": 0,
       "currentRetry": 0,
       "err": {}
     },
@@ -108,7 +108,7 @@
     {
       "title": "ends with an exclamation point!",
       "fullTitle": "index.js welcomeMessage ends with an exclamation point!",
-      "duration": 1,
+      "duration": 0,
       "currentRetry": 0,
       "err": {}
     },
